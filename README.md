@@ -65,6 +65,32 @@ Data stored in DataBase (SQLite)
 
 
 
+Now let see that we can able to sign-in with our already created account or it will goin to show that User already exits! please sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+![WhatsApp Image 2022-05-07 at 11 22 21 AM](https://user-images.githubusercontent.com/101108540/167242086-70cbbf7e-f37d-4517-937b-9452e7eae442.jpeg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 Adding new User
