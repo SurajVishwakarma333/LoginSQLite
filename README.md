@@ -1,7 +1,7 @@
 # LoginSQLite
 In this project i created login page for Users(contains username, password and re-type password). Which stored the data in database using SQLite.
 
-This is what my home page look like 
+This is what my Login_in home page look like 
 
 
 
