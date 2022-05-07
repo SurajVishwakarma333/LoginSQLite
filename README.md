@@ -15,7 +15,7 @@ This is what my home page look like
 
 
 
-here i created my new username=suraj, password=12345 and re-entered password.
+here i'm going to creat new account where my username=suraj, password=12345 and re-entered password.
 
 
 
