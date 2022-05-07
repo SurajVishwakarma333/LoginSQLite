@@ -151,7 +151,7 @@ Adding new User
 
 
 
-when i tried to mismatch the retype password with my actual password while creating new account. Obviously it should be going to show Password not Matching!
+when i tried to mismatch the retype password with my actual password. Obviously it should be going to show Password not Matching!
 
 
 
