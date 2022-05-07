@@ -144,8 +144,24 @@ Adding new User
 
 
 
+![Screenshot_20220507_122122](https://user-images.githubusercontent.com/101108540/167242685-6c50b8c9-51c7-44b7-863c-442e76da05eb.jpg)
 
-![WhatsApp Image 2022-05-07 at 11 22 20 AM (2)](https://user-images.githubusercontent.com/101108540/167241723-2af274e9-abf9-4cb5-be4a-1fb88535d354.jpeg)
+
+
+
+
+Clicking on REGISTER button.
+
+
+
+
+
+![Screenshot_20220507_122125](https://user-images.githubusercontent.com/101108540/167242709-f6c8fd4d-6947-468f-8a68-b93e3c54fa43.jpg)
+
+
+
+
+
 
 
 
@@ -159,7 +175,8 @@ when i tried to mismatch the retype password with my actual password while creat
 
 
 
-![WhatsApp Image 2022-05-07 at 11 22 20 AM (4)](https://user-images.githubusercontent.com/101108540/167241796-1186c79e-8a44-4cfc-b101-09622ec6bc70.jpeg)
+
+![Screenshot_20220507_122108](https://user-images.githubusercontent.com/101108540/167242713-e76b4020-8a9e-4fbe-a3b7-ee1bc2577eb7.jpg)
 
 
 
