@@ -1,5 +1,5 @@
 # LoginSQLite
-In this project i created login page for Users(contains username, password and re-enter password). Which stored the data in database using SQLite.
+In this project i created login page for Users(contains username, password and re-type password). Which stored the data in database using SQLite.
 
 This is what my home page look like 
 
