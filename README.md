@@ -65,7 +65,7 @@ Data stored in DataBase (SQLite)
 
 
 
-Now let see that we can able to sign-in with our already created account or it will goin to show that User already exits! please sign in
+Now let see that we can able to sign-in or not with our already created account or it will be going to show me that User already exits! please try sign in
 
 
 
@@ -80,6 +80,49 @@ Now let see that we can able to sign-in with our already created account or it w
 
 
 ![WhatsApp Image 2022-05-07 at 11 22 21 AM](https://user-images.githubusercontent.com/101108540/167242086-70cbbf7e-f37d-4517-937b-9452e7eae442.jpeg)
+
+
+
+
+
+So lets try Sign-in option for already created account .To do that we have to click on EXISTING USER! GO TO SIGN IN PAGE button and give the correct username and password.
+
+
+
+
+
+
+
+
+![WhatsApp Image 2022-05-07 at 11 22 20 AM (5)](https://user-images.githubusercontent.com/101108540/167242213-d23b2031-7950-4413-847d-ff3d9fcbbe88.jpeg)
+
+
+
+
+
+
+
+
+If the username and password is correct its show Sign in successfull.
+
+
+
+
+
+
+
+
+
+![WhatsApp Image 2022-05-07 at 11 22 21 AM (2)](https://user-images.githubusercontent.com/101108540/167242252-9407cc52-480f-4b1d-9c91-b33944a7be81.jpeg)
+
+
+
+
+
+
+If the username or password is wrong it show invalid Credentials
+
+
 
 
 
