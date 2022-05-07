@@ -15,7 +15,7 @@ This is what my home page look like
 
 
 
-here i'm going to creat new account where my username=suraj, password=12345 and re-entered password.
+here i'm going to create new account where my username=suraj, password=12345 and re-typed password.
 
 
 
@@ -31,7 +31,7 @@ here i'm going to creat new account where my username=suraj, password=12345 and 
 
 
 
-After filling username and password.clicking on REGISTER button and then it should be show Registered Successfully.
+After filling username and password.clicking on REGISTER button for registration., it should show Registered Successfully.
 
 
 
