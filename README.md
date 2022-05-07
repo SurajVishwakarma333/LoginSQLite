@@ -150,6 +150,21 @@ Adding new User
 
 
 
+
+when i tried to mismatch the retype password with my actual password while creating new account. Obviously it should be going to show Password not Matching!
+
+
+
+
+
+
+
+![Screenshot_20220507_122108](https://user-images.githubusercontent.com/101108540/167242713-e76b4020-8a9e-4fbe-a3b7-ee1bc2577eb7.jpg)
+
+
+
+
+
 Clicking on REGISTER button.
 
 
@@ -162,21 +177,6 @@ Clicking on REGISTER button.
 
 
 
-
-
-
-
-
-
-when i tried to mismatch the retype password with my actual password while creating new account. Obviously it should be going to show Password not Matching!
-
-
-
-
-
-
-
-![Screenshot_20220507_122108](https://user-images.githubusercontent.com/101108540/167242713-e76b4020-8a9e-4fbe-a3b7-ee1bc2577eb7.jpg)
 
 
 
